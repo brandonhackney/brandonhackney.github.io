@@ -1,2 +1,7 @@
 title: Brandon Hackney
-remote_theme: pages-themes/cayman@v0.2.0
+logo: /content/portrait.jpg
+description: PhD Student in Cognitive Neuroscience
+linktree: <center><a href="/content/curriculumVitae.pdf">CV</a> + <a href="https://github.com/brandonhackney">GitHub</a> + <a href="https://www.linkedin.com/in/brandon-hackney-58a43210a/">LinkedIn</a></center>
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal

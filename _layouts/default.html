@@ -22,15 +22,12 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <p>{{ site.linktree }}</p>
-
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+        
+        <!-- CUSTOM SECTION -->
+        <center>
+        	<a href="/content/curriculumVitae.pdf">CV</a> + <a href="https://github.com/brandonhackney">GitHub</a> + <a href="https://www.linkedin.com/in/brandon-hackney-58a43210a/">LinkedIn</a>
+        	</center>
+        <!-- end custom -->
 
         {% if site.show_downloads %}
         <ul class="downloads">

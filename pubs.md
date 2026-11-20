@@ -3,16 +3,32 @@ layout: default
 ---
 
 ## Journal Articles
+**Hackney, B. C.**, & Grossman, E. D. (2026).
+_Perceptual, cognitive and social-cognitive style factors of gaze behavior_
+_when viewing Heider-Simmel-style animations_
+[Manuscript submitted for publication].
+Department of Cognitive Sciences, University of California, Irvine.
+
 **Hackney, B. C.**, Pyles, J. A., & Grossman, E. D. (2024).
 A quantitative comparison of atlas parcellations on the human superior temporal sulcus.  
 _Human Brain Mapping_, _1842_, 149119. 
-doi:[10.1016/j.brainres.2024.149119](https://doi.org/10.1016/j.brainres.2024.149119)
+[https://doi.org/10.1016/j.brainres.2024.149119](https://doi.org/10.1016/j.brainres.2024.149119)
 
 Drew, S. A., Awad, J. F., **Hackney, B. C.**, & Fenn, E. (2018).
 Orange is less than green: An examination of bidirectionality in grapheme-color synesthesia.
 _Perception_, _47_(8), 881-891.
-doi:[10.1177/0301006618779485](https://doi.org/10.1177/0301006618779485)
+[https://doi.org/10.1016/j.brainres.2024.149119](https://doi.org/10.1177/0301006618779485)
 
+## Dissertation and Thesis
+**Hackney, B. C.** (2024).
+_Neural underpinnings of social cognition_
+(Order No. 32046095)
+[Doctoral dissertation, University of California, Irvine].
+ProQuest Dissertations and Theses Global.
+
+**Hackney, B. C.** (2021).
+_An overview of the function of the posterior superior temporal sulcus_
+[Unpublished master's thesis]. University of California, Irvine.
 
 ## National Conference Poster Presentations
 Zhou, X., **Hackney, B.**, Torabian, S., Pyles, J. A., & Grossman, E.D. (2023, September).
